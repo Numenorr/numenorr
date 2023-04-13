@@ -1,55 +1,42 @@
-# Astro Starter Kit: Basics
+<h3 align="center">
+        <samp>&gt; Olá!, eu sou o
+                <b><a target="_blank" href="https://portfolio-bay-eta-90.vercel.app/">Filipe</a> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"></b>
+        </samp>
+</h3>
+<br>
 
-```
-npm create astro@latest -- --template basics
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
-
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+<p align="center">
+        <!-- Organisation  -->
+      <samp>
+          「 Desenvolvedor web 」
+      </samp>
+  
+  <samp>
+    <p align="center">
+      Apaixonado por tecnologia e design, estou ansioso para colaborar com você!
+      <br>  
+      ════ ⋆★⋆ ════  
+    </p>
+</samp>
+  
+  <br>
+  <br>
+  <p align="center">
+   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=numenorr&layout=compact&theme=dracula">
+  
+  <br>
+  <br>
+  
+  <p align="center">
+        <!-- Organisation  -->
+      <samp>
+          「 Me encontre também em 」
+      </samp>
+           <br>
+  <br>
+     <a href="mailto:filipecr2009@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+     </a>
+     <a href="https://www.linkedin.com/in/filipe-cardoso-rodrigues-037b5a23b/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+     </a>
